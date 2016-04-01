@@ -1,0 +1,30 @@
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\bin\Debug\ProjeA.exe.config
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\obj\Debug\ProjeA.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\obj\Debug\ProjeA.Properties.Resources.resources
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\obj\Debug\ProjeA.csproj.GenerateResource.Cache
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\bin\Debug\ProjeA.exe
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\bin\Debug\ProjeA.pdb
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\obj\Debug\ProjeA.exe
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\obj\Debug\ProjeA.pdb
+D:\YandexDisk\Projeler\c#\Winform\ProjeA\ProjeA\obj\Debug\ProjeA.Kitaplik.resources
+D:\YandexDisk\Projeler\c#\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.MovieAdd.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\bin\Debug\ProjeA.exe.config
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.exe
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.pdb
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.Search.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\bin\Debug\ProjeA.exe
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\bin\Debug\ProjeA.pdb
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.Kitaplik.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.MovieAdd.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.Properties.Resources.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.Search.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.Sign.resources
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.csproj.GenerateResource.Cache
+D:\YandexDisk\Projeler\C# (2)\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.SignUp.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.SignUp.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\Debug\ProjeA.Giris.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\Debug\System.Net.Http.dll
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\Debug\System.Net.Http.xml
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\Debug\MovieDatabase.mdf
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\Debug\MovieDatabase_log.ldf

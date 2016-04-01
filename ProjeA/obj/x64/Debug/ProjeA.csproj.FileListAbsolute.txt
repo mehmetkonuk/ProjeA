@@ -1,0 +1,13 @@
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\x64\Debug\ProjeA.exe.config
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\x64\Debug\ProjeA.exe
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\bin\x64\Debug\ProjeA.pdb
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.Kitaplik.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.MovieAdd.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.Properties.Resources.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.Search.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.Sign.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.SignUp.resources
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.csproj.GenerateResource.Cache
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.exe
+D:\YandexDisk\Projeler\C#\WinForm\ProjeA\ProjeA\obj\x64\Debug\ProjeA.pdb
